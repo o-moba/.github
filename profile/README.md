@@ -1,4 +1,4 @@
-Oopen MOBA is more than just a MOBA game—it’s a creative ecosystem empowering everyone to share directly in its success.
+Open MOBA is more than just a MOBA game—it’s a creative ecosystem empowering everyone to share directly in its success.
 
 Imagine a game that combines beloved gameplay mechanics from classics like League of Legends and Dota 2 with a fully open model for user-generated content. Picture designing unique characters—including their appearances, backstories, professions, and abilities—and sharing them in an open marketplace, where fans directly support creators by purchasing custom skins and characters.
 
