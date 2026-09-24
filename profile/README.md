@@ -1,9 +1,13 @@
-Open MOBA is more than just a MOBA game—it’s a creative ecosystem empowering everyone to share directly in its success.
+**Open MOBA — a game to play, create, and build together.**
 
-Imagine a game that combines beloved gameplay mechanics from classics like League of Legends and Dota 2 with a fully open model for user-generated content. Picture designing unique characters—including their appearances, backstories, professions, and abilities—and sharing them in an open marketplace, where fans directly support creators by purchasing custom skins and characters.
+Open MOBA is an open-source multiplayer online battle arena built with Rust and Bevy. Inspired by games like League of Legends and Dota 2, it brings together team combat, distinct hero roles, and a growing world shaped by its community.
 
-OMOBA, currently in the early stages of development, aims to become an open-source, blockchain-based multiplayer platform structured as a DAO, transparently distributing profits to creators and contributors. Users will retain full ownership of their creations, choosing between limited editions or unlimited availability.
+The game is in active development, with team battles, bot matches, and offline character practice already implemented. You can get started with the built-in characters—no wallet or NFT purchase required.
 
-Beyond characters, envision building entire universes and collaboratively integrating your creations into a vibrant Web3 multiverse. Assets will be managed through NFTs, with cryptocurrencies used as in-game tokens.
+We want artists, animators, musicians, and developers to help shape what comes next. Contribute a character design, an animation, a sound, a map idea, or a pull request. Our longer-term goal is to make it easier for creators to bring their work into the game, receive credit, and find support from the community.
 
-OMOBA will also closely integrate with [Ekza Space](https://github.com/ekza-space/), benefiting from mutual innovations and collaborative growth.
+Open MOBA integrates with [Ekza](https://github.com/ekza-space/), an open ecosystem of avatar tools and shared asset infrastructure. Together, we’re exploring how creator-made characters can move between compatible games and applications while each game keeps its own rules and visual identity.
+
+Whether you want to playtest, create, or contribute code, you’re welcome to join us.
+
+[Join our Discord](https://discord.gg/DMhvaVpj7Q) · [Visit omoba.io](https://omoba.io/)
