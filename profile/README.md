@@ -10,4 +10,6 @@ Open MOBA integrates with [Ekza](https://github.com/ekza-space/), an open ecosys
 
 Whether you want to playtest, create, or contribute code, you’re welcome to join us.
 
-[Join our Discord](https://discord.gg/DMhvaVpj7Q) · [Visit omoba.io](https://omoba.io/)
+**We need your support to make this game and protocol grow.** Donations fund public match servers, new heroes and art, the open Ekza SDK and builds for every device — [see how to support us](https://omoba.io/donate).
+
+[Join our Discord](https://discord.gg/DMhvaVpj7Q) · [Visit omoba.io](https://omoba.io/) · [Support the project](https://omoba.io/donate)
